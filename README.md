@@ -1,5 +1,7 @@
 # aframe-gltf-test
 
+![](assets/screenshot.png)
+
 Preview: [http://odl-gltfbear.surge.sh](http://odl-gltfbear.surge.sh)
 
 Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms.
