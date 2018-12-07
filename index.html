@@ -6,10 +6,12 @@
   <a-scene embedded arjs='sourceType: webcam;'>
       <a-marker preset='hiro'>
         <!-- Adding an OBJ file to an AR Project-->
+        <a-scene>
         <a-entity 
             gltf-model-next="src: url(assets/animatedbox.gltf);">
         </a-entity>
-              
+                      </a-scene>
+
       </a-marker>
   <a-entity camera>
   </a-entity>
